@@ -15,4 +15,80 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+
 /* Voeg jouw css hieraan toe */
+body {
+    background-color: #f2f2f2;
+}
+h1{
+    padding: 60px;
+    text-align: center;
+    font-family: 'Bitter', serif;
+    font-size: 5em;
+    color: #C86FD8;
+}
+    
+h2{
+    font-family:'Bitter', serif;
+    font-size: 2em;
+    color: #C86FD8;
+    padding-left: 50px;
+}
+h3{
+    font-family: 'Bitter', serif;
+    font-size: 28px;
+    color: #999999;
+}
+.hex{
+    font-size: 24px;
+    color: #000000;
+    font-family:'Open Sans', sans-serif;
+    display: inline-flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.cmyk{
+    font-size:24px;
+    color:#000000;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.rgb{
+    font-size:24px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.hsl{
+    font-size: 24px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    display:inline-flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+th.bitter{
+    font-family: 'Bitter', serif;
+    color: #f2f2f2;
+    background-color: #C86FD8;
+}
+th.open{
+    font-family: 'Open Sans', sans-serif;
+    color: #f2f2f2;
+    background-color: #C86FD8;
+}
+th.source{
+    font-family: 'Source sans Pro', sans-serif;
+    color: #f2f2f2;
+    background-color: #C86FD8;
+}
+td{
+    padding: 7px;
+}
+table{
+    padding-left: 50px;
+}
