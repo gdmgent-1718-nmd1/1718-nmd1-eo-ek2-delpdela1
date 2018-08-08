@@ -92,3 +92,9 @@ td{
 table{
     padding-left: 50px;
 }
+tr.positive{
+    color: green;
+}
+tr.negative{
+    color:red;
+}
